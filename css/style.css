@@ -1,0 +1,112 @@
+.bgimage{
+  position: absolute;
+  display:block;
+  height: 100%;
+  width: 100%;
+}
+body{
+margin: 0%;
+background-color: #E0E8FF;
+}
+p{
+  line-height: 1.5;
+}
+.box{
+  float: inherit;
+
+}
+.box-image{
+  position: absolute;
+  width: 22%;
+  margin: 5% 40% 0px 40%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+
+}
+.box-outline{
+  background-color: white;
+  height: 58%;
+  width: 22%;
+  margin: 15.8% 40% 10% 40%;
+  position: absolute;
+  display: block;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+.head{
+  font-family: 'Red Hat Display', sans-serif;
+  text-align: center;
+  margin-top: 10%;
+}
+.desc{
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 0.75rem;
+  width: 85%;
+  text-align: center;
+  margin: 8%;
+}
+.inside-box{
+  height: 15%;
+  background-color: #F5F7FF;
+  width: 80%;
+  margin: 15% 0% 10% 10%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+
+}
+.music-img{
+  width: 18%;
+  margin: 3% 3%;
+  float: left;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+.annualplan{
+  display: inline-block;
+  position: absolute;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 0.80rem;
+  margin: 3% 3%;
+
+
+
+}
+.price{
+  display: inline-block;
+  font-size: 0.70rem;
+  font-family: 'Red Hat Display', sans-serif;
+  margin: 10% 4%;
+  position: absolute;
+
+}
+.change-button{
+  display: inline-block;
+  position: absolute;
+  font-size: 0.70rem;
+  font-family: 'Red Hat Display', sans-serif;
+  margin: 6% 44%;
+  color: #3E065F;
+  cursor: pointer;
+  text-decoration: underline;
+
+}
+.btn {
+  position: absolute;
+  background-color: #4A47A3;
+  color: white;
+  margin: 0% 0% 0% 11%;
+  padding: 3% 19%;
+  border-radius: 10px;
+  font-family: 'Red Hat Display', sans-serif;
+  border-style: none;
+  cursor: pointer;
+}
+.cancel{
+  display: inline-inline-block;
+  margin: 14% 0% 0% 38%;
+  position: absolute;
+  font-size: 0.75rem;
+  font-family: 'Red Hat Display', sans-serif;
+}
